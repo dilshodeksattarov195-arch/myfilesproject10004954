@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "databasevpdate",
+        "uuid": 48653234,
+        "checksum": "woomsv"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
